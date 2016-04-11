@@ -1,7 +1,7 @@
 #Chicken Parmesan from America's Test Kitchen
 (transcribed from show)
 
-Ingredients: 
+##Ingredients
 - Olive Oil
 - Garlic 
 - Salt
